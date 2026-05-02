@@ -5,6 +5,7 @@ import model.Preference;
 import model.TimetableResult;
 
 import java.util.List;
+import java.util.Scanner;
 
 public class ResultUI {
 
